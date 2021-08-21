@@ -1,2 +1,2 @@
-# rect_tuto
+# react_tuto
 hola gente
